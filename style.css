@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(33, 31, 46); 
+    color: azure;
+}
+
+.userCard {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    margin: 10px 10px 0 0;
+}
+
+.card-body {
+    background-color: rgb(141, 209, 214);
+    font-size: 25px;
+}
